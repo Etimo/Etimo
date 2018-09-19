@@ -4,5 +4,11 @@
         "sshKeys": [
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxxlJ60d00gRVx51KJtUP2gNYIka3uL6r1zF76HIKOP583K4iiSODxPrtVocJHO2CPyCKYeZpEVjCPSS0lHy1meyjQp2rWyOQm61Us5gItiG5yWN0Tfqnv7bjbdbByVedrhlGMLr/bzkOSGqM+yKdbCQnQVjTWuEj4hQ1j0eVCjww4chiYCJ9dgcH2O7C43YEgp//r4/U00AW5Q+RYgDpC7nMm+7cHsE367lciMXXjHabinoZAyitgpnuE0epbc4GSuA94Ai9WPvBd5GSIvLnbR12FESdG5KQDB82TeKi9lBZ1jHzGQl3jyA6q4mokgiA7/bDQQFs9wJcfkEFe9e2J Teo-Yubikey"
         ]
+    },
+     "Erik": {
+        "name": "Erik Malm",
+        "sshKeys": [
+            "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDaySUJqkbDFUWHzYySeIxgWLcdzu+71CWemGIXdZ4vrjFCkxpt9P9pWgNcO6GPGa1Tng6fBmh0vYJhTznFyKnxlu7wpJymrrEG9W6tb1AHYTE8SCfT/o1N51V4CAqYLroDTGrreImmFzjN9WIby7defMVn3EHYD7iRAoF86o/wsFvdN7p/i9Hq1b6QHX7ddQxvvTJyCN5XtJB48MpJ13RwGy9ZDcfeZvHBY+CSMKi8AMPKzbS+TwyigXwLriJV9dWKJLGCBqvg4sFTMggxw61787fJZD8cmpEUXuJa+JyNGjsvmOuB9ITfDxjVL47441tXhiNPlaVayKBO1h5cKDZd erik@WorkDell"
+        ]
     }
 }
