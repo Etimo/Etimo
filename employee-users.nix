@@ -1,4 +1,4 @@
-{pkgs, lib}:
+{lib, ...}:
 let
   employees = lib.importJSON ./employees.json;
 in {
