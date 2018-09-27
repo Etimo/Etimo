@@ -5,16 +5,22 @@
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxxlJ60d00gRVx51KJtUP2gNYIka3uL6r1zF76HIKOP583K4iiSODxPrtVocJHO2CPyCKYeZpEVjCPSS0lHy1meyjQp2rWyOQm61Us5gItiG5yWN0Tfqnv7bjbdbByVedrhlGMLr/bzkOSGqM+yKdbCQnQVjTWuEj4hQ1j0eVCjww4chiYCJ9dgcH2O7C43YEgp//r4/U00AW5Q+RYgDpC7nMm+7cHsE367lciMXXjHabinoZAyitgpnuE0epbc4GSuA94Ai9WPvBd5GSIvLnbR12FESdG5KQDB82TeKi9lBZ1jHzGQl3jyA6q4mokgiA7/bDQQFs9wJcfkEFe9e2J Teo-Yubikey"
         ]
     },
-     "Erik": {
+    "Erik": {
         "name": "Erik Malm",
         "sshKeys": [
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDaySUJqkbDFUWHzYySeIxgWLcdzu+71CWemGIXdZ4vrjFCkxpt9P9pWgNcO6GPGa1Tng6fBmh0vYJhTznFyKnxlu7wpJymrrEG9W6tb1AHYTE8SCfT/o1N51V4CAqYLroDTGrreImmFzjN9WIby7defMVn3EHYD7iRAoF86o/wsFvdN7p/i9Hq1b6QHX7ddQxvvTJyCN5XtJB48MpJ13RwGy9ZDcfeZvHBY+CSMKi8AMPKzbS+TwyigXwLriJV9dWKJLGCBqvg4sFTMggxw61787fJZD8cmpEUXuJa+JyNGjsvmOuB9ITfDxjVL47441tXhiNPlaVayKBO1h5cKDZd erik@WorkDell"
         ]
     },
-     "Joakim": {
+    "Joakim": {
         "name": "Joakim Olesen",
         "sshKeys": [
             "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII+fEbWnVh9t2tDsIOtXWwXglqAM0UdHqXujNX/10eOh joakim@DESKTOP-HGMSMRM"
+        ]
+    },
+    "Lukas": {
+        "name": "Lukas Lindqvist",
+        "sshKeys": [
+            "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDO9Sv42M9olBBDFy9iC2sM+nhnr1htvgHhoWtiWppGhAZTYfB6xudejXGD7AD3UwpK7QdYcXU6vOUogV6K+hMYpPLpeLTfT08gH9mAPbJcdBc8/HEvrPmyX9aqHRX9ONOFj3dEV2Xf3YVnKxH9JVZYx/Ey3TfXh+7pRSQIdjjrjPhMMi6wejdO3TlULRW4wnVPR3/CTyEQE3/G9bxO5ryBlIbo8ng0sS/1hoTaI0YZE8IHAyfm2Akf/+OoTZp/5vmIxGF8nOwtjBdYnAoEYNZ8p29dfg0Ri5gI15ixd9Mznp5Gf7Frg6nbN5/I5X+nCvQmEK1vYeSujMe+tq0wHrGeqDiL2qR7LvfZhbfAvteuLWtiBHn7fpsd2n4yvLxfpYk0gkDzPK9k2slnSo8lMQcrYWhb1IhBk7KBq3JV46z8xvT+Mk6FqupkL3IoDukm8VIYQ/G564fnbPdryPToyRvxNr2ybRi7iS1T7t7It9sRYhtOe+6gQmrcspu6sbnprR2JzFsD9FLzMA6KCXHGIakn1y4Bx3DE2rUQgdMKNplt346IWohH24PR8koNZzOziAEIpHy/DmkYjkaaKijWkRsmpEl4xXEcDVM81CUdsAY0CMwHGE8YmzturEV0TuG/wjIoeGUm+Hb60Hoi9wPrXDASkImsBZcHgY/97MWo2lU0PQ== mail@lukaslindqvist.se"
         ]
     }
 }
