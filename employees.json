@@ -22,5 +22,11 @@
         "sshKeys": [
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDO9Sv42M9olBBDFy9iC2sM+nhnr1htvgHhoWtiWppGhAZTYfB6xudejXGD7AD3UwpK7QdYcXU6vOUogV6K+hMYpPLpeLTfT08gH9mAPbJcdBc8/HEvrPmyX9aqHRX9ONOFj3dEV2Xf3YVnKxH9JVZYx/Ey3TfXh+7pRSQIdjjrjPhMMi6wejdO3TlULRW4wnVPR3/CTyEQE3/G9bxO5ryBlIbo8ng0sS/1hoTaI0YZE8IHAyfm2Akf/+OoTZp/5vmIxGF8nOwtjBdYnAoEYNZ8p29dfg0Ri5gI15ixd9Mznp5Gf7Frg6nbN5/I5X+nCvQmEK1vYeSujMe+tq0wHrGeqDiL2qR7LvfZhbfAvteuLWtiBHn7fpsd2n4yvLxfpYk0gkDzPK9k2slnSo8lMQcrYWhb1IhBk7KBq3JV46z8xvT+Mk6FqupkL3IoDukm8VIYQ/G564fnbPdryPToyRvxNr2ybRi7iS1T7t7It9sRYhtOe+6gQmrcspu6sbnprR2JzFsD9FLzMA6KCXHGIakn1y4Bx3DE2rUQgdMKNplt346IWohH24PR8koNZzOziAEIpHy/DmkYjkaaKijWkRsmpEl4xXEcDVM81CUdsAY0CMwHGE8YmzturEV0TuG/wjIoeGUm+Hb60Hoi9wPrXDASkImsBZcHgY/97MWo2lU0PQ== mail@lukaslindqvist.se"
         ]
+    },
+    "Jens": {
+        "name": "Jens",
+        "sshKeys": [
+            "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKHN2pjD4bcKqI5xEZr0TXWNFIrnXQVdEXjpJ2U2EjU6 admin@Jenss-MacBook-Pro.local"
+        ]
     }
 }
