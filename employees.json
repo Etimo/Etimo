@@ -31,7 +31,7 @@
     },
     "jassyr": {
         "name": "Jassyr",
-        sshKeys: [
+        "sshKeys": [
             "ssh-dss AAAAB3NzaC1kc3MAAACBAPOAFXsMR4SWn1Qn8Z7WP7zwcNulezaRSz54wZvy/c6+LM3Ey51fDt9xqHEUKYdUuO3xN5I7yexP3QdBdOqRccOY8ugneDV6J3mavgaM/kuIlIML6ytic+ItqeJMZOKC+WIqNMGqDMBnSw5eYQ+nFlNu5zEQRy9pJSYg8aGcPo3hAAAAFQDjvTH3W4d8ZIyRe9+4Y6oVQL/qqwAAAIAORptiAsz55YCzvcFaj4wBDESlYn+Vre5IMojvx00+PFHckAhpyctF54LAI6ptC/nZ0FZTLBxLr/OLBHVAV8ckHhIaL+aUNzgH/BGwrE9UM65idBEy0cu6dL0775mgAaj8BeFZwpnjYWbBBhj4U/rlXDHhhq/Fr5ehyacuBHpyiwAAAIAvCfU9hBsAzO3k91Wk4nLOhV4UOgaw4Yl4uWl7CVpQ7oY45fYb4FADMkcBII/hbG7S6DuHULN6Xb5FnR/AnXjpkmdJDD0aWgEy3IeJeYdaSbr5ANRIInTfQ+IcqiOTn1Sq9ajtb1XFoAyziaancBMJPLPLpOnAN6rGCSmezaaPlg== imported-openssh-key"
         ]
     }
