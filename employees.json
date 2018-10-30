@@ -34,5 +34,11 @@
         "sshKeys": [
             "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGrjN4g+t3W5cNF0lgemYtvbE1ZGpuX11Rv8H1c1I9hz ed25519-etimo-jassyr"
         ]
+    },
+        "William": {
+        "name": "William",
+        "sshKeys": [
+            "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIkuAy80JbR2vArauMRntpcL22OfGSG8H/azBN6R0X6a Etimo@DESKTOP-C8BVAVM"
+        ]
     }
 }
