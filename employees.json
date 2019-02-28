@@ -5,6 +5,16 @@
             "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxxlJ60d00gRVx51KJtUP2gNYIka3uL6r1zF76HIKOP583K4iiSODxPrtVocJHO2CPyCKYeZpEVjCPSS0lHy1meyjQp2rWyOQm61Us5gItiG5yWN0Tfqnv7bjbdbByVedrhlGMLr/bzkOSGqM+yKdbCQnQVjTWuEj4hQ1j0eVCjww4chiYCJ9dgcH2O7C43YEgp//r4/U00AW5Q+RYgDpC7nMm+7cHsE367lciMXXjHabinoZAyitgpnuE0epbc4GSuA94Ai9WPvBd5GSIvLnbR12FESdG5KQDB82TeKi9lBZ1jHzGQl3jyA6q4mokgiA7/bDQQFs9wJcfkEFe9e2J Teo-Yubikey"
         ]
     },
+    "Daniel": {
+        "name": "Daniel Winther",
+        "sshKeys": [
+        ]
+    },
+    "Johan": {
+        "name": "Johan Hazelius",
+        "sshKeys": [
+        ]
+    },
     "Erik": {
         "name": "Erik Malm",
         "sshKeys": [
@@ -35,7 +45,7 @@
             "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGrjN4g+t3W5cNF0lgemYtvbE1ZGpuX11Rv8H1c1I9hz ed25519-etimo-jassyr"
         ]
     },
-        "William": {
+    "William": {
         "name": "William",
         "sshKeys": [
             "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIkuAy80JbR2vArauMRntpcL22OfGSG8H/azBN6R0X6a Etimo@DESKTOP-C8BVAVM"
